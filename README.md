@@ -1,4 +1,4 @@
-# Stock Market Ten Years Fundamental Analysis (SMarTY-FAn)
+# Stock Market Fundamental Analysis (SMFA)
 This project is a python implementation of a stock investment book by the author Ho Kok Mun. This book teaches the method used in selecting stocks for long term investments, such as determining the ROI of the stocks, EPS growth rate, and etc.
 
 Currently, this project only includes 800 listed companies found in the Main Market of the Kuala Lumpur Stock Exchange (KLSE). This excludes commodities, indices, mutual funds, and exchange traded funds. 
